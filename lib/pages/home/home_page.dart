@@ -111,6 +111,7 @@ class _HomePageState extends State<HomePage> {
                                               '${candidate.number}',
                                               style: TextStyle(
                                                   color: Colors.white,
+                                                  fontSize: 20,
                                                   fontWeight: FontWeight.bold),
                                             ),
                                           ),
