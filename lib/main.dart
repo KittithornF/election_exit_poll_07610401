@@ -1,3 +1,4 @@
+import 'package:election_exit_poll_07610401/pages/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
 
       ),
-      //home: ,
+      home: HomePage(),
     );
   }
 }
